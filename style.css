@@ -16,7 +16,7 @@ height: 95vh;
 .header{
 height: 112vh;
 background-image:
-url(../hotel/img/a2.jpg);
+url(./image/a1.jpg);
 background-size: cover;
 background-position: top;
 }
